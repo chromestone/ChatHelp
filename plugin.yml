@@ -1,0 +1,12 @@
+name: ChatHelp
+main: com.gmail.absolutevanillahelp.ChatHelp.ChatHelp
+version: 1.0
+commands:
+  /say:
+    description: For console only
+    usage: //say
+    permission: ChatHelp.Say
+    permission-message:
+permissions:
+  ChatHelp.Say:
+    default: op
