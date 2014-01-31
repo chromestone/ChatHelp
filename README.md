@@ -1,4 +1,0 @@
-ChatHelp
-========
-
-Bukkit Plugin
